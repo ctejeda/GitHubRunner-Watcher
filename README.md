@@ -103,4 +103,5 @@ And that’s it! In just a few minutes, you’ve got a makeshift service for Git
 
 ### Parting Words
 
-Next time, maybe we’ll get fancier, but for now? https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Faint-nobody-got-time-for-that-gifs&psig=AOvVaw0lZqJuqsoY7QT_gWJBgB3k&ust=1731258187542000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCO8rvdz4kDFQAAAAAdAAAAABAE Enjoy your rush-tested, down-and-dirty GitHub Actions Runner service setup.
+Next time, maybe we’ll get fancier, but for now? ![Ain't Nobody Got Time For That](https://media.tenor.com/images/ca6f87de89b8af74767eac7cde7b6612/tenor.gif) Enjoy your rush-tested, down-and-dirty GitHub Actions Runner service setup.
+
