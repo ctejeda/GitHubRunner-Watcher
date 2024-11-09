@@ -104,6 +104,8 @@ And that’s it! In just a few minutes, you’ve got a makeshift service for Git
 ### Parting Words
 
 Next time, maybe we’ll get fancier, but for now?  
+
 ![no-time-busy](https://github.com/user-attachments/assets/0fb0517f-e304-4740-8335-373fd895606b)
+
 Enjoy your rush-tested, down-and-dirty GitHub Actions Runner service setup.
 
